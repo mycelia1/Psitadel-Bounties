@@ -1,0 +1,7 @@
+To Do: 
+
+1. Change color theme to reflect Psitadel's branding.
+2. Edit default relay connections to include Psitadel's in-house relay. (See ~/psitadelbounties/src/pages/relays.tsx and ~/psitadelbounties/src/const.tsx
+3. Edit #t tags to use #psitadel-bounty and filter later with #psitadel-bounty-status when publishing bounties and updates.(See ~/psitadelbounties/src/pages/createBounty.tsx file and ~/psitadelbounties/src/App.tsx).
+4. Triage runtime errors
+5. Change "Made by Diego" to "Forked from nostrbounties"
